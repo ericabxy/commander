@@ -1,4 +1,0 @@
-Commander
-=========
-
-Command-line constructor
